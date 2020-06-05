@@ -1,0 +1,20 @@
+{
+  "name": "extract-sha256",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcbombardelli/extract-sha256.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcbombardelli/extract-sha256/issues"
+  },
+  "homepage": "https://github.com/jcbombardelli/extract-sha256#readme"
+}
